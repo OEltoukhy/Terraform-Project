@@ -1,4 +1,4 @@
-erraform Final project
+Terraform Final project
 
 This repository contains the Terraform code to deploy infrastructure on AWS. It includes creating a VPC with public subnet and private subnet, launching EC2 instances in the public subnets, Create S3 bucket AWS Architecture
 
