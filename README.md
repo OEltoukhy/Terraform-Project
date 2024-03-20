@@ -26,7 +26,7 @@ Before running the deployment script, you will need to have the following:
 To get started:
 Clone this repository to your local machine.
 
-git clone https://github.com/OEltoukhy/Terraform_project
+git clone https://github.com/OEltoukhy/Terraform-project
 
 Run terraform init to download the necessary Terraform plugins.
 
